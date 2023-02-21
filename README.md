@@ -1,8 +1,8 @@
 # euterpea_codes
 
-The implementation of The Haskell School Of Music book and some developments i have made
+The implementation of The Haskell School Of Music book.
 
-Please check the book for more information about how to create algorithmic music and also for signal processing and production. Haskell gives a lot when it comes to music i believe. For signals, an open source project baudline is already on files. You can analyze your sound signals visually with it. 
+This book is a great source to learn algorithmic music, signal processing and music theory basics. Haskell has a talent when it comes to music. To analyze sound files, you can try baudline.
 
 The Haskell School of Music by Paul Hudak www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf
 Baudline : http://baudline.com/
